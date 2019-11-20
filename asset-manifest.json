@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "/linda/static/js/main.b508be81.chunk.js",
+    "main.js": "/linda/static/js/main.9312270d.chunk.js",
     "runtime-main.js": "/linda/static/js/runtime-main.d6c9394a.js",
-    "static/js/2.af0ba712.chunk.js": "/linda/static/js/2.af0ba712.chunk.js",
+    "static/js/2.bb4fccda.chunk.js": "/linda/static/js/2.bb4fccda.chunk.js",
     "index.html": "/linda/index.html",
-    "precache-manifest.1e8c3e6cb4f1bdd58d3d284c551d26a4.js": "/linda/precache-manifest.1e8c3e6cb4f1bdd58d3d284c551d26a4.js",
+    "precache-manifest.dc6b003b610f40b37622da9ecf3b6f59.js": "/linda/precache-manifest.dc6b003b610f40b37622da9ecf3b6f59.js",
     "service-worker.js": "/linda/service-worker.js"
   },
   "entrypoints": [
     "static/js/runtime-main.d6c9394a.js",
-    "static/js/2.af0ba712.chunk.js",
-    "static/js/main.b508be81.chunk.js"
+    "static/js/2.bb4fccda.chunk.js",
+    "static/js/main.9312270d.chunk.js"
   ]
 }
